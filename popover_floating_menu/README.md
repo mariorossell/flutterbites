@@ -1,15 +1,15 @@
 # popover_floating_menu
 
-A new Flutter project.
+A Flutter project that demonstrates the use of the popover widget to create customizable popover menus in flutter..
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a basic example of the use of the popover widget.
 
-A few resources to get you started if this is your first Flutter project:
+You can follow the tutorial along in the following link:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Tutorial: Floating menu in flutter with the popover widget](https://flutterbites.com/floating-menu-in-flutter-with-the-popover-widget/)
+- [Website: Amazing flutter tutorials](https://flutterbites.com/)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
